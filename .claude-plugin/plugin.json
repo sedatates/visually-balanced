@@ -1,0 +1,10 @@
+{
+  "name": "visually-balanced",
+  "description": "Optical balance rules for UI, icons, logos and layouts, plus a script that measures visual weight.",
+  "version": "1.0.0",
+  "author": { "name": "Sedat Ateş" },
+  "homepage": "https://github.com/sedatates/visually-balanced",
+  "repository": "https://github.com/sedatates/visually-balanced",
+  "license": "MIT",
+  "keywords": ["design", "optical-balance", "ui", "icons", "svg"]
+}

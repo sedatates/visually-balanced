@@ -101,7 +101,22 @@ python skills/visually-balanced/scripts/measure_balance.py examples/03-square-ci
 
 ## Install
 
-**Claude Code**
+**Claude Code (plugin)**
+
+Run this inside Claude Code (2.1.275 or later):
+
+```
+/plugin install visually-balanced --marketplace sedatates/visually-balanced
+```
+
+On older versions, add the marketplace first:
+
+```
+/plugin marketplace add sedatates/visually-balanced
+/plugin install visually-balanced@visually-balanced
+```
+
+**Claude Code (manual copy)**
 
 ```bash
 git clone https://github.com/sedatates/visually-balanced.git

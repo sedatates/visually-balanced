@@ -1,0 +1,14 @@
+{
+  "name": "visually-balanced",
+  "description": "The visually-balanced skill: optical balance rules and a visual weight measuring script.",
+  "owner": {
+    "name": "Sedat Ateş"
+  },
+  "plugins": [
+    {
+      "name": "visually-balanced",
+      "source": "./",
+      "description": "Optical balance rules for UI, icons, logos and layouts, plus a script that measures visual weight."
+    }
+  ]
+}
